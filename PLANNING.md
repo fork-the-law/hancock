@@ -11,6 +11,7 @@ The following is a list of items that we've identified as issues that could be r
   1. Legislation is informed by financial/special interests instead of `subject of matter experts`.
   1. Impetus for legislation informed by financial/special interests is frequently exaggerated by `manufactured outrage`.
   1. It is difficult for people outside the legal/legislative field to understand the law well enough to participate in drafting legislation.
+  1. Ordinary people have no way of contributing to legislative change except by donating money or signing petitions.
 
 ## Goals
 The goals listed in this section aim to resolve or reduce the items listed in the `Problems` section.
