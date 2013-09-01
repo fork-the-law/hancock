@@ -4,10 +4,11 @@ This document aims to outline high-level `problems`, `goals` and `definitions` f
 ## Problems
 The following is a list of items that we've identified as issues that could be resolved or reduced by completing items listed in the `Goals` section.
 
-  1. Congress doesn't know who the `subject matter experts` are for a given subject.
+  1. Congress may not know who the `subject matter experts` are for a given subject.
+  1. `Subject matter experts` interested in assisting with legislation do not have the vocabulary to communicate with Congress on their terms.
+  1. The `subject matter experts` that Congress may know about cannot be easily vetted as experts in their subject.
   1. `Subject matter experts` are not involved in legislation that affects their subject.
   1. Legislation is informed by financial/special interests instead of `subject of matter experts`.
-  1. The `subject matter experts` that Congress does know about cannot be easily vetted as experts in their subject.
   1. Impetus for legislation informed by financial/special interests is frequently exaggerated by `manufactured outrage`.
   1. It is difficult for people outside the legal/legislative field to understand the law well enough to participate in drafting legislation.
 
