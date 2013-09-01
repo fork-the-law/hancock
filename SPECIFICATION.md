@@ -3,7 +3,7 @@
 ## Objects
 
 ### Draft Legislation
-Text written to ammend or augment current statutory law.
+Text written to ammend or augment statutory law.
 
 ### Legal Summary
 A condensed summary of relevant cases and articles.
