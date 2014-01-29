@@ -22,6 +22,7 @@ Open Everything: We are dedicated to open source code and principles. We haven't
 
 This open attitude also includes the functioning of our organization, as much as possible. Part of our goal is to establish radical transparency in all our operations. With a common background in information security, the team fully understands that the most solid system is one that is held open to critical scrutiny. 
 
+
 ––––––––––––––––––––––––––––––––––––––––––––––––
 
 # Who Will Use This
@@ -30,6 +31,10 @@ While ideally, we'd like people who are experts in their field to lead projects,
 
 ## Joining a Project
 If a registered user wishes to join an existing project, they'll make a request to the project administrators. Project administrators will have a variety of levels of authorization to allow users to contribute in incremental steps. It will be left entirely up to the administrators to vet potential contributors in any manner they choose. Collaboration will be encouraged but not required.
+
+![Joining a Project](http://www.websequencediagrams.com/cgi-bin/cdraw?lz=dGl0bGUgSm9pbmluZyBhIFByb2plY3QKClJlZ2lzdGVyZWQgVXNlci0-ABMHIEFkbWluczogUmVxdWVzdCB0byBqb2luADEJABoOLT4AOg86ADwFdCB3aXRoIG1pbmltYWwgcGVybWlzc2lvbnMKCm5vdGUgb3ZlciAAdQ8sAIEWCAB7CVVzZXIgcHJvdmVzIHNlbGYgdG8gYmUgaGVscGZ1bAoAaiJFc2NhbGF0ZQB0Dk5vdGUgbGVmdCBvZgB1EDogCiAgQ29sbGFib3JhdGlvbiBFbmNvdXJhZ2VkCiAgYnV0IG5vdCByZXF1aXJlZA&s=modern-blue "Joining a Project")
+
+[Image Source](http://www.websequencediagrams.com/?lz=dGl0bGUgSm9pbmluZyBhIFByb2plY3QKClJlZ2lzdGVyZWQgVXNlci0-ABMHIEFkbWluczogUmVxdWVzdCB0byBqb2luADEJABoOLT4AOg86ADwFdCB3aXRoIG1pbmltYWwgcGVybWlzc2lvbnMKCm5vdGUgb3ZlciAAdQ8sAIEWCAB7CVVzZXIgcHJvdmVzIHNlbGYgdG8gYmUgaGVscGZ1bAoAaiJFc2NhbGF0ZQB0Dk5vdGUgbGVmdCBvZgB1EDogCiAgQ29sbGFib3JhdGlvbiBFbmNvdXJhZ2VkCiAgYnV0IG5vdCByZXF1aXJlZA&s=modern-blue)
 
 ## Endorsing a project
 By default any registered user will be able to endorse a project. The project administrators will have the ability to promote endorsers to highlight their participation and/or allow them to help with promotion of the project outside of the editing process.
