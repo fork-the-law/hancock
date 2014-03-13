@@ -37,17 +37,17 @@ By default any registered user will be able to endorse a project. The project ad
 # What Will a User Experience
 
 ## Project Initiation
-When a user goes to set up a project, we'll have a few introductory questions to narrow down the section of code, then we'll offer a full text search of existing statutes to allow the project initiator to select the section of law they wish to fork. They then select this to initiate a project space or branch. If the code they have selected is open any other project spaces, they will be alerted to this and they will have the option to request to join any alternate projects currently in process.
+When a user goes to set up a project, they'll be asked to identify the section of code they wish to fork. (Later phases would include a full text search of existing statutes and expansion beyond statutory law.) They then select this to initiate a project space or fork. If the code they have selected is open any other project spaces, they will be alerted to this and they will have the option to request to join any alternate projects currently in process.
 
-If there are no other working spaces on that section of code or they choose not to join them, the application will create a new workspace. The workspace will contain a code editor, an area containing suggested related cases, publications and other information available and an area with promotion including external links and discussions. 
+If there are no other working spaces on that section of code or they choose not to join them, the application will create a new workspace. The workspace will contain a code editor, an area to place related cases, publications and other relevant information available (Later phases would include automatically suggesting materials here.) and an area with promotion including external links and discussions. 
 
-Since the goal of Fork the Law is to increase public knowledge and understanding of the law, branches will be viewable by anyone. We are considering providing private workspaces to major contributors, but have not committed to that.
+Since the goal of Fork the Law is to increase public knowledge and understanding of the law, branches in the free editor will be viewable by anyone. Later phases would have a private editor available via subscription.
 
 ### The editor pane
 This is where the text of the statute will be edited. Automatic change control will identify each editor's contributions by color signifiers. Users may create callouts that link to articles, cases and other statutes and comments identified in the information pane, but may be viewed in short form in bubbles in the editor pane.
 
 ### The information pane
-Although most of the commenting will be done through links in callouts from the editor pane, some content will necessarily be unlinked and can be stored here. A lower level of authorization would be required to contribute to content, from up-voting/down-voting cases pulled in from automatic feeds to help sort the data. Case briefs and other summaries, descriptions and discussions and other information will be collected here as data module items that may be exploded in editable modules for short and long summaries.
+Although general commenting will be connected through links in callouts from the editor pane, most content will start out unlinked and can be stored here. Independent levels of authorization would be required to contribute to content, from up-voting/down-voting materials to adding or linking new content. Case briefs and other summaries, descriptions and discussions and other information will be collected here as data module items that may be exploded in editable modules for short and long summaries.
 
 Users who have been approved for editing will be identified here so people considering endorsing or signing on to help with the project can check out who they'll be working with.
 
@@ -60,19 +60,19 @@ Additional text editing bubbles will be available for documents the promotion te
 
 Endorsers will be shown here, with some automatic initial ranking algorithm adjusted by the team to promote key supporters. 
 
-A limited private space may be available here for promotion strategy discussions. No links will be functional and no advanced functionality will be available in this space. 
+For the free project space, a limited private space may be available here for promotion strategy discussions. No links will be functional and no advanced functionality will be available in this area. 
 
 ## Project Merge
 
-For particularly contentious topics, we anticipate many copies of the same statute will be edited at once. People will disagree, or hold their ideas exclusive and start their own project. We focus on encouraging people working on similar projects to build real consensus, not just compromise, for the greater good of their efforts. The benefits of unification should greatly outweigh divisiveness. 
+For particularly contentious topics, we anticipate many copies of the same statute will be edited at once. People will disagree, or hold their ideas exclusive and start their own project. We focus on encouraging people working on similar projects to build real consensus, not just compromise, for the greater good of their efforts. The benefits of unification should greatly outweigh divisiveness, as it does in the real world. 
 
 As an advanced feature, to achieve a greater consensus, we will have a merge process that will enable projects to combine to form one cohesive whole. Administrators of each project will be able to identify their differences and discuss how they can bring them together, working through the merge process in a thoughtful manner.
 
-Although this is a goal, we don't anticipate the need for this function in the initial rollout. We will be building our data structures and work flows to enable this in the future.
+Although this is a goal, we don't anticipate the need for this function in the initial phase. We will be building our data structures and work flows to enable this in the future.
 
 ## Generating the Bill
 
-Promotion should begin long before the text of the code has been solidified with the editor, so the bill finalization will likely come at some point in the middle of the process. Once everyone has agreed that the text is what they'd like to see, then they commit their changes and the text will no longer be editable. Once frozen, a bill will be automatically generated suitable for presenting to the selected congressmen for submission.
+Promotion should begin long before the text of the code has been solidified with the editor, so the bill text finalization will likely come at some point in the middle of the process. Once everyone has agreed that the text is what they'd like to see, then they commit their changes and the text will no longer be editable. Once frozen, a bill will be automatically generated suitable for presenting to the selected congressmen for submission.
 
 If the text needs further changes then a new version of the editor may be opened, based either on the original statute or the previously edited bill and the process may be repeated.
 
