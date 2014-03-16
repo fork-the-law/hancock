@@ -1,14 +1,12 @@
-hancock
-=======
 We are in the information age, an age of active participation and unprecedented  inclusion. We can no longer be content to let others tell us what we will get, letting only our viewership and ratings determine what our lives will be. We no longer accept things as they are given to us, but are active participants in our own lives, our own country. We are not spectators.
 
-We showed Congress this with SOPA. Phone calls, letters and in-person visits forced Congress to understand that there are interests other than commerce on the internet. It made us all realize how much power we potentially yield if we come together and speak with one voice. We let them know that we believe in our rights and we are willing to fight for them.
+But we dodn't know what else to tell them than "no". We need to fix that.
 
-But we didn't know what else to tell them than "no". We need to fix that.
+The Problem:
+Legislatures are busy places, with more to do than they have people to get things done. New laws are written around the world by lobbyists and corporate interests. A few are written by public interest advocacy groups (often dubbed "special interests" by detractors) but most are written by corporate lobbyists, working solely with the interest of big business in mind. Even if we eliminated all campaign finance issues, we'd still be facing this terrible problem: Congress does not get good laws in. In fact most lawmakers, if they had the opportunity to, would be enacting legislation by and of the People. Unfortunately, they seldom have that option.
 
-Fork The Law is a site that will make it easier to to say what we're thinking, and to bring the message to Congress. The best way to do that is with draft legislation in hand that we hammered out ourselves, instead of leaving it to lobbyists and private interests. So we decided to make a tool for doing just that.
-
-We're building connections to make ourselves heard in the real world. The old, passive, lobbyist driven, head-down generation will never know what hit 'em.
+The Solution:
+Fork The Law is a site that will make it easier to to say what we're thinking, and to bring the message to Congress. The People need help drafting our own legislation that we hammered out ourselves, instead of leaving it to lobbyists and private interests. So we decided to make a tool for doing just that.
 
 Fork the Law is an effort to bridge the gap between citizens who are experts in their fields and governing law. Our effort begins with experts who work with rapidly evolving technology who have become frustrated with the statutes that impact their work. 
 
@@ -18,9 +16,9 @@ We plan to walk participants through all necessary steps to move from where we a
 
 # Principles
 
-Open Everything: We are dedicated to open source code and principles. We haven't settled on which open source license we will release under since there are so many to choose from and each has its own merits. We would not even entertain the possibility of closed sourcing anything we do. Further, we aim to use open source tools, platforms and packages wherever we can.
+Openness: We are dedicated to openness principles. Our goal is increasing the breadth of human knowledge, and that means not locking up data. We aim to use open source tools, platforms and packages wherever we can. It is our goal to make as much as we can available to the People without compromising our sustainability.
 
-This open attitude also includes the functioning of our organization, as much as possible. Part of our goal is to establish radical transparency in all our operations. With a common background in information security, the team fully understands that the most solid system is one that is held open to critical scrutiny. 
+This open attitude also includes the functioning of our organization, as much as possible. Part of our goal is to establish transparency in all our operations. With a common background in information security, the team fully understands that the most solid system is one that is held open to critical scrutiny. 
 
 ––––––––––––––––––––––––––––––––––––––––––––––––
 
